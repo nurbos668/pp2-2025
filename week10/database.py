@@ -5,7 +5,7 @@ def get_user_and_level():
         host="localhost",
         dbname="suppliers",
         user="postgres",
-        password="Math314#"
+        password="Cherylady22"
     )
     cur = conn.cursor()
 
